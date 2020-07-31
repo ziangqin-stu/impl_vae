@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="e28e1b7a-80bb-4955-ace7-48026e614991" name="lim001_vae">
+        <fileTransfer rootFolder="/home/ziang" accessType="SFTP" host="lim001.usc.edu" port="22" sshConfigId="c4c15ac9-c811-47ad-9381-55fe34395a7a" sshConfig="ziang@lim001.usc.edu:22 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

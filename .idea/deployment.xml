@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="lim001_vae" createEmptyFolders="true">
+    <serverData>
+      <paths name="Copy of project-level server 'lim001_vae'">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/work_space/impl_vae" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="lim001_vae">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/work_space/impl_vae" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="ziang@lim001.usc.edu:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/ziang/work_space/impl_vae" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="ziang@tomsawyer.usc.edu:22">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
